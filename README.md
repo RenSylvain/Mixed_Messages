@@ -1,4 +1,4 @@
-# Project Name
+# Mixed Messages
 > This project is a simple one that is meant for practicing git and GitHub functionality. The program generates random messages in the console.
 
 ## Table of Contents
