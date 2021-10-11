@@ -8,7 +8,7 @@
 * [Setup](#setup)
 * [Project Status](#project-status)
 * [Contact](#contact)
-<!-- * [License](#license) -->
+* [License](#license)
 
 
 ## General Information
@@ -42,5 +42,5 @@ Created by [@RenSylvain](https://github.com/RenSylvain) - feel free to contact m
 
 
 
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
+## License
+This project is open source and available under the [MIT License](https://en.wikipedia.org/wiki/MIT_License).
