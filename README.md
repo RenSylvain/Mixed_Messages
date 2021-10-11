@@ -30,7 +30,7 @@ List the ready features here:
 
 
 ## Setup
-I don't know how a person downloads documents from GitHub using terminal yet, so I guess just copy and paste the script.js file into your own script.js file on your computer and type 'node script.js' when your in the respective folder. You'll need to download [node.js] (https://nodejs.org/en/) first. 
+I don't know how a person downloads documents from GitHub using terminal yet, so I guess just copy and paste the script.js file into your own script.js file on your computer and type 'node script.js' when your in the respective folder in terminal. You'll need to download [node.js] (https://nodejs.org/en/) first. 
 
 
 ## Project Status
