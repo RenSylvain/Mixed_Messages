@@ -17,3 +17,4 @@ console.log(msgPart1Array[Math.floor(Math.random()*3)] +
 
 // Make comment to test doing a pull request on GitHub before pushing local changes to main branch.
 // Comment to test making a branch on local then creating pull request that shows up on GitHub.
+// Test2
